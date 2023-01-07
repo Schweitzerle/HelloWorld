@@ -30,10 +30,12 @@ Nun können Sie den oben gezeigten Code in der IDE implementieren.
 4. IntelliJ IDEA erstellt nun ein neues Projekt für Sie und öffnet den Haupteditor.
 5. Geben Sie nun den folgenden Code in den Editor ein:
 
+```
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
+```
 
 Sie haben erfolgreich ihr erstes Programm in Java geschrieben!
